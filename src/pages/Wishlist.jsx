@@ -68,7 +68,7 @@ const Wishlist = () => {
                     onClick={() => handleMoveToCart(item)}
                     className="w-full bg-blue-500 hover:bg-blue-600 text-white font-medium py-2 px-4 rounded-lg transition-colors"
                   >
-                    Move to Cart
+                    Move to cart 
                   </button>
                 </div>
               </div>
